@@ -62,7 +62,7 @@ To run this project locally, ensure you have Android Studio (latest version) and
 **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/S-Gallery.git
+git clone https://github.com/Moussa79m/S-Gallery.git
 ```
 
 **Open the project:**
@@ -137,7 +137,7 @@ S-Gallery/
 **استنساخ المستودع (Clone):**
 
 ```bash
-git clone https://github.com/your-username/S-Gallery.git
+git clone https://github.com/Moussa79m/S-Gallery.git
 ```
 
 **فتح المشروع:**
